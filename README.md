@@ -9,3 +9,5 @@ pass: admin123
 Student Account:
 Emaill: 123456
 Pass: pass123
+
+THANK YOU
