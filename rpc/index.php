@@ -251,13 +251,13 @@
                                 ?>
                             </div>
                             <div class="mb-3">
-                                <a href="resetPassword.php" class="text-danger text-decoration-none">Forgot
-                                    password?</a>
+                                <a href="resetPassword.php" class="text-danger text-decoration-none">
+                                    Forgot password?</a>
                                 <input type="hidden" name="sum" value="<?= $sum; ?>" class="form-control">
                             </div>
                             <div class="mb-3">
                                 <input type="checkbox" id="check" name="keep_me_login">
-                                <label for="check"> Keep me Logged in </label>
+                                <label for="check"> <i>Keep me Logged in</i> </label>
                             </div>
                             <div class="mb-3">
                                 <button type="submit" name="login_btn"
